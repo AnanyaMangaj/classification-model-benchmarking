@@ -230,7 +230,7 @@ notebook
 Engineering Student · Aspiring Data Scientist · ML Enthusiast
 
 [![GitHub](https://img.shields.io/badge/GitHub-AnanyaMangaj-black?style=flat-square&logo=github)](https://github.com/AnanyaMangaj)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ananya-mangaj-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ananya-mangaj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--ananya-mangaj-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ananya-mangaj)
 
 ---
 
