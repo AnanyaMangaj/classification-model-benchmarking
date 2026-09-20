@@ -77,7 +77,7 @@ Binary classification: *does the patient have diabetes?*
 
 ---
 
-## 📊 Benchmark Results  
+## 📊 Benchmark Results    
 
 ### 🚢 Titanic — Accuracy Comparison
 
