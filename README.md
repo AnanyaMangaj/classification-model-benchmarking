@@ -48,7 +48,7 @@ Binary classification: *did the passenger survive?*
 
 **Features used:** `Pclass` · `Sex` · `Age` · `SibSp` · `Parch` · `Fare` · `Embarked`
 
-**Preprocessing:**
+**Preprocessing:**  
 - Filled missing values — `Age` (median), `Fare` (median), `Embarked` (mode)
 - Dropped irrelevant columns: `PassengerId`, `Name`, `Ticket`, `Cabin`
 - Label-encoded: `Sex`, `Embarked`
