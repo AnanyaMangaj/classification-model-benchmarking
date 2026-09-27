@@ -31,7 +31,7 @@ It covers the full ML pipeline: data loading, preprocessing, feature scaling, mo
 | Best accuracy (Diabetes) | **76.62% — Naive Bayes** |
 
 ---
-
+     
 ## 🎯 Objectives    
 
 - Apply multiple classification algorithms on real-world datasets
