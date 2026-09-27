@@ -40,7 +40,7 @@ It covers the full ML pipeline: data loading, preprocessing, feature scaling, mo
 - Identify the best-performing model for each dataset
 
 ---
-        
+            
 ## 📂 Datasets  
 
 ### 🚢 Titanic Dataset
