@@ -21,7 +21,7 @@ This project implements and compares **6 supervised machine learning classificat
 
 It covers the full ML pipeline: data loading, preprocessing, feature scaling, model training, and performance evaluation using standard classification metrics.
 
-| Detail | Value |
+| Detail | Value |         
 |---|---|
 | Datasets | Titanic · Diabetes |
 | Algorithms compared | 6 classifiers |
