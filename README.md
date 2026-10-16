@@ -10,7 +10,7 @@
 [![Algorithms](https://img.shields.io/badge/Algorithms-6-purple?style=flat-square)](#-algorithms-benchmarked)
 [![Datasets](https://img.shields.io/badge/Datasets-2-teal?style=flat-square)](#-datasets)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)](LICENSE)
-
+          
 </div>   
     
 ---       
