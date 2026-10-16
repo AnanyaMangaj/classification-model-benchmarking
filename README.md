@@ -19,7 +19,7 @@
 
 This project implements and compares **6 supervised machine learning classification algorithms** on two real-world Kaggle datasets — **Titanic** (survival prediction) and **Diabetes** (diagnosis prediction).
 
-It covers the full ML pipeline: data loading, preprocessing, feature scaling, model training, and performance evaluation using standard classification metrics.
+It covers the full ML pipeline: data loading, preprocessing,      feature scaling, model training, and performance evaluation using standard classification metrics.
 
 | Detail | Value |         
 |---|---|
