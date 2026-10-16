@@ -41,7 +41,7 @@ It covers the full ML pipeline: data loading, preprocessing,      feature scalin
 
 ---
         
-## 📂 Datasets             
+## 📂 Datasets                    
 
 ### 🚢 Titanic Dataset
 Binary classification: *did the passenger survive?*
