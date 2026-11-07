@@ -30,7 +30,7 @@ It covers the full ML pipeline: data loading, preprocessing,      feature scalin
 | Best accuracy (Titanic) | **82.12% — Random Forest** |
 | Best accuracy (Diabetes) | **76.62% — Naive Bayes** |
 
----
+---    
      
 ## 🎯 Objectives    
 
